@@ -11,11 +11,11 @@
 * Anomaly Detection with Explainability
     * Unsupervised machine learning (Isolation Forest) for anomaly detection
     * Develop a surrogate regression model to *explain* the anomaly model
-<br>
+<br>  
 * Traditional statistical models
     * Multiple linear regression
     * Logistic regression
-<br>    
+<br>  
 * Simple Decision Trees for Classification
-<br>
+<br>  
 * Forecasting
