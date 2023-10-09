@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 def proc_freq(df, vars, dropna=False, sort_vars=False):
     """
     This function attempts to mimic basic SAS' PROC FREQ functionality.
